@@ -1,0 +1,112 @@
+:root{
+    --text-color:black;
+    --link-color:blue;
+    --background:white;
+}
+#{
+    margin:o;
+    padding:o;
+    box-sizing: border-box;
+
+}
+html{
+     scrol-behaviour:smooth;
+}
+body{
+     font-family'poppins,'scans-serif;
+     color:var(--text-color);
+     background-color:var(--background-color);
+     max-width:1400px;
+     margin:o auto;
+
+}
+
+a{
+    color:var(--link-color);
+    text-decoration:none
+
+}
+
+{
+nav{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding: 0 50px;
+    height:80px
+
+}
+nav.left a{
+    color:var(--text-color);
+    font-size:22px;
+    font-weight:600;
+
+}
+
+nav.right a{
+    color:var(--background-color);
+    padding: 5px 15px;
+    border-radius: 5px;
+
+}
+nav.right aspan{
+    margine-left:5px;
+
+}
+hero-section{
+    display:flex;
+    justify-content:space-between;
+    align-item:center;
+    padding-bottom: icoop;
+    gap:40px;
+
+}
+hero-section.text{
+    flex:5;
+}
+hero-section.text{
+    font-size:45px
+}
+hero section.text links a:hover{
+    color:var(--text-color);
+    border:2px solid var(--text)
+
+}
+hero-section.headshort{
+    flex:2;
+    display:flex;
+    justify content:right
+}
+.hero section.headshort img{
+    width: 350px;
+    bord-radius:50%;
+
+}
+.skills-section 
+    padding:0 50px;
+    margine: bottom 100px;
+
+}
+. .skills-section h2{
+    text-align: center;
+    font-size: 35px;
+{
+ skills-section:center;
+ margine-bottom 20px
+
+
+}
+.skills.cells{
+    display:flex;
+    justify-content;
+    flex-wrap;
+}
+    
+}
+    
+
+
+
+
+
+
